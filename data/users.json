@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "555-0101",
+            "membershipDate": "2023-01-15",
+            "status": "active",
+            "borrowedBooks": [101, 102],
+            "maxBooksAllowed": 5
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "phone": "555-0102",
+            "membershipDate": "2023-03-20",
+            "status": "active",
+            "borrowedBooks": [103],
+            "maxBooksAllowed": 5
+        }
+    ]
+}

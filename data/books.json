@@ -1,0 +1,54 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn": "978-0-06-112008-4",
+            "genre": "Fiction",
+            "year": 1960,
+            "available": true,
+            "copies": 5
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn": "978-0-451-52493-2",
+            "genre": "Dystopian",
+            "year": 1949,
+            "available": true,
+            "copies": 3
+        },
+        {
+            "id": 3,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn": "978-0-7432-7356-5",
+            "genre": "Fiction",
+            "year": 1925,
+            "available": false,
+            "copies": 0
+        },
+        {
+            "id": 4,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "isbn": "978-0-14-143951-8",
+            "genre": "Romance",
+            "year": 1813,
+            "available": true,
+            "copies": 4
+        },
+        {
+            "id": 5,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "isbn": "978-0-316-76948-0",
+            "genre": "Fiction",
+            "year": 1951,
+            "available": true,
+            "copies": 2
+        }
+    ]
+}
